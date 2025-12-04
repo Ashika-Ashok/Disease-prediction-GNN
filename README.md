@@ -1,3 +1,11 @@
+<img width="1146" height="635" alt="image" src="https://github.com/user-attachments/assets/399187fd-a6dc-45cd-acb2-e73355cc7e9a" />
+
+<img width="1173" height="634" alt="image" src="https://github.com/user-attachments/assets/61638502-e508-41d2-bb70-91594911105b" />
+
+
+
+
+
 -------------------------------------Graph Based Disease Prediction System------------------------------------------------
 
 This project compares traditional Machine Learning models and Graph Neural Networks (GCN, GraphSAGE, GAT) for disease prediction under noisy data conditions. 
